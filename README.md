@@ -22,7 +22,9 @@ A Streamlit-based web application that generates human-like LinkedIn posts with 
 ---
 
 ## 📸 Screenshots  
-(Add screenshots here after running the app)
+<img width="1876" height="828" alt="image" src="https://github.com/user-attachments/assets/2dce168a-a68d-48ee-9680-da95e888f982" />
+<img width="1901" height="804" alt="image" src="https://github.com/user-attachments/assets/10f1774e-92cf-4335-b041-3bb4d1795149" />
+
 
 ---
 
